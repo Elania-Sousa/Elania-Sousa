@@ -3,7 +3,7 @@
 <div style="display: inline_block">
  
 - 👩😉 E aí? Como você está? Eu sou Elania Sousa, mas prefiro que me chamem de Lana.
-- 🌱 Fui da Pedagogia ao Desenvolvimento Web na **Trybe** e hoje sou Frontend Júnior!
+- 🌱 Fui da Pedagogia ao Desenvolvimento Web na **Trybe** e hoje sou Desenvolvedora Full Stack Júnior!
 - Atualmente estou aprendendo Backend (cá pra nós, tô amando) 🤓.
 </div>
 
