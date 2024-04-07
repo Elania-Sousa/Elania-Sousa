@@ -2,8 +2,10 @@
 ## Welcome :)
 <div style="display: inline_block">
  
-- 👩😉 E aí? Como você está? Eu sou Elania Sousa, mas prefiro que me chamem de Lana.
-- 🌱 Sempre achei que era de humanas, mas é que na verdade o desenvolvimento de software é meio místico mesmo rs Sou apaixonada pelo que faço e há 2 anos estou na @Vivo!
+- 👩😉 E aí? Eu sou Lana.
+- 🌱 Sempre achei que era de humanas, mas é que na verdade o desenvolvimento de software é meio místico também haha
+- Sou apaixonada pelo que faço e há 2 anos estou na @Vivo!
+- Apaixonada por borboletas, pelos detalhes da vida e pelas viagens que sempre que posso, faço.
 </div>
 
 ##
