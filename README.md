@@ -3,8 +3,7 @@
 <div style="display: inline_block">
  
 - 👩😉 E aí? Como você está? Eu sou Elania Sousa, mas prefiro que me chamem de Lana.
-- 🌱 Fui da Pedagogia ao Desenvolvimento Web na **Trybe** e hoje sou Desenvolvedora Full Stack Júnior!
-- Atualmente, sou Analista Funcional de Sistemas na @Vivo (Telefônica Brasil). Atuo junto a um squad composto por PO, SCRUM, UX, ARQUITETO, DEVS FRONT, BACK E QA. 
+- 🌱 Fui da Pedagogia ao Desenvolvimento Web na **Trybe** e hoje sou Desenvolvedora Full Stack na @Vivo!
 </div>
 
 ##
