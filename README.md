@@ -4,7 +4,7 @@
  
 - 👩😉 E aí? Eu sou Lana.
 - 🌱 Sempre achei que era de humanas, mas é que na verdade o desenvolvimento de software é meio místico também haha
-- Há 2 anos na melhor empresa: @Vivo! <3
+- Há 3 anos na melhor empresa: @Vivo! <3
 - Apaixonada por borboletas, pelos detalhes da vida e pelas viagens que sempre que posso, faço.
 </div>
 
